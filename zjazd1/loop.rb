@@ -1,8 +1,18 @@
 i = 0
 loop do
-puts "Hellow from loop"
-if i > 20
-break
-end
 i += 1
+
+if i % 5 == 0
+  next
 end
+
+puts "hellow from loop: #{i}"
+
+if i > 20
+  break
+  end
+end
+
+
+
+i
