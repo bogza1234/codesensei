@@ -4,4 +4,4 @@ x = gets.to_i
 puts "podaj drugą liczbę"
 y = gets.to_i
 
-ropoczęty trzba napisać 
+ropoczęty trzba napisać :)
