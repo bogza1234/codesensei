@@ -1,4 +1,4 @@
-i - 0
+i = 0
 puts "ile interakcji"
 n = gets.to_i
 
