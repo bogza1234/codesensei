@@ -15,14 +15,16 @@ end
 if num == 0
 end
 
+
+
 i = 0
+s = 0
 
-while i < tablica.count
-
-  i = tablica [i]
-
-  suma = i += 1
+while 0 < tablica[i].to_i
+s = s + tablica[i]
+  i = i + 1
 end
 
-
-puts "suma liczb: #{suma}"
+if tablica[i] = 0
+puts "suma:#{s}"
+end
