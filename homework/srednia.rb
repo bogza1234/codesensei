@@ -13,3 +13,7 @@ srednia = sum / numbers.count
 
 puts "Suma elementów z tablicy: #{sum}"
 puts "Średnia elementów tablicy:#{srednia}"
+
+
+
+#tu powinna byc policzona jeszcze mediana
